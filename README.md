@@ -44,5 +44,6 @@ The dataset is organized as follows:
    git clone https://github.com/your-username/AI-Publishability-Checker.git
    cd AI-Publishability-Checker
 #to run the application
+
 streamlit run src/app.py
 
